@@ -5,7 +5,7 @@ I am currently studying in the academy at [Founders & Coders](http://www.founder
 ### Skills
 
 |Languages|Frameworks / Libraries | Testing | Tools / Others | Databases|
-|---------|------|-----|
+|:---------:|:--------------------:|:---------:|:-------------:|:--------------:|
 |Javascript|jQuery| Tape | Git | Redis
 |Node.js| | QUnit | Heroku | |
 |HTML5| | | | |
