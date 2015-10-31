@@ -7,8 +7,8 @@ I am currently studying in the academy at [Founders & Coders](http://www.founder
 |Languages|Frameworks / Libraries | Testing | Tools / Others | Databases|
 |:---------:|:--------------------:|:---------:|:-------------:|:--------------:|
 |Javascript|jQuery| Tape | Git | Redis
-|Node.js|Chart.js| QUnit | Heroku | |
-|HTML5| | | | |
+|Node.js|Chart.js| QUnit | Github | |
+|HTML5| | | Heroku | |
 |CSS3| | | | |
 |Markdown| | | | | |
 
