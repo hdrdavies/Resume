@@ -10,7 +10,7 @@ I am currently studying in the academy at [Founders & Coders](http://www.founder
 |Node.js    |React                   | QUnit     | Github         |                |
 |HTML5      | hapi.js                |           | Heroku         |                |
 |CSS3       |                        |           | npm            |                |
-|Markdown   |                        |           |                |                | 
+|Markdown   |                        |           | AWS            |                | 
 
 ### Education
 
