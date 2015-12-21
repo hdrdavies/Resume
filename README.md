@@ -8,7 +8,7 @@ I am currently studying in the academy at [Founders & Coders](http://www.founder
 |:---------:|:----------------------:|:---------:|:--------------:|:--------------:|
 |Javascript |jQuery                  | Tape      | Git            | Redis          |
 |Node.js    |React                   | QUnit     | Github         | Firebase       |
-|HTML5      | hapi.js                |           | Heroku         |                |
+|HTML5      | hapi.js                | Jasmine   | Heroku         |                |
 |CSS3       |                        |           | npm            |                |
 |Markdown   |                        |           | AWS            |                | 
 
