@@ -10,34 +10,33 @@ I’m an enthusiastic full-stack javascript developer who loves to learn the lat
 |Markdown   |Hapi.js                 | QUnit     | Github         | Firebase       |
 |HTML5      | jQuery                 | Jasmine   | Heroku         |                |
 |CSS3       | React.js               |           | npm            |                |
-<!-- |           |                        |           |                |                | -->
 
 ### Recent Projects
 
 #### Team Munch
 
-Full-stack developer for a mobile-first team meal payment application in a team of 4 developers, which handled several different user flows and many varied requests to our database. Users can be authenticated through facebook and send emails through the application for invites.
-**Stack**: *Front-end*: Bootstrap, jQuery, handlebars *Backend*: hapi.js, redis, mandrill
+Full-stack developer for a mobile-first team meal payment application in a team of 4 developers, which handled several different user flows and many varied requests to our database. Users can be authenticated through facebook and send emails through the application for invites.  
+**Stack**: *Front-end*: Bootstrap, jQuery, handlebars, stripe *Backend*: hapi.js, redis, mandrill
 
-Application can be found [here](http://tmmvp.herokuapp.com/)
+Application can be found [here](http://tmmvp.herokuapp.com/).
 
 #### Boatlaunch
 
 Project manager and client liaison for team of 4 developers across different timezones to build an intuitive mobile-first web application displaying UK slipway data, intended for 1000s of hits per day. I was also fully involved with the building of the app both on the front and back-end. At the end of the project we produced a sample native application on android by converting the web application with phonegap.
-**Stack**: *Front-end*: Bootstrap, jQuery *Backend*: hapi.js, firebase
+**Stack**: *Front-end*: Bootstrap, jQuery *Backend*: hapi.js, firebase  
 
-Application can be found [here](http://boatlaunch-app.herokuapp.com/)
+Application can be found [here](http://boatlaunch-app.herokuapp.com/).
 
 #### dwyl.io redesign
 
-Researched London-based web agency websites & proposed new design for the dwyl website. Worked in a team of two to redesign and extend inherited website. Conducted user testing and incorporated feedback into website design, layout and content.
-Stack: Front-end: Pure-css, jQuery, handlebars Back-end: hapi.js
+Researched London-based web agency websites & proposed new design for the dwyl website. Worked in a team of two to redesign and extend inherited website. Conducted user testing and incorporated feedback into website design, layout and content.  
+**Stack**: *Front-end*: Pure-css, jQuery, handlebars *Back-end*: hapi.js
 
-Application can be found [here](https://dwylio-test.herokuapp.com)
+Application can be found [here](https://dwylio-test.herokuapp.com).
 
 ### Other
 
-#### September 2015- present: Full-stack Developer, Founders & Coders / dwyl, London
+#### September 2015 - present: Full-stack Developer, Founders & Coders / dwyl, London
 
 * Initiator and current chief editor of Founders & Coders newsletter, delivered to a community of over 1000 people
 * Contributor to several tutorials and walkthroughs in various different technologies and tools
