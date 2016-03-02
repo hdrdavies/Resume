@@ -55,7 +55,7 @@ Application can be found [here](https://dwylio-test.herokuapp.com).
 * Placed senior manager in large-scale corporate. Secured a long-term partnership with client.
 * Developed sales skills as well as productivity, organisation and time management
 
-#### 2013 Summer: Intern, Emerge Venture Lab, London			  	 
+#### Summer 2013: Intern, Emerge Venture Lab, London			  	 
 
 * Researched global educational tech market and produced a detailed database of findings
 * Internship extended by two weeks after efficient and accurate project delivery
