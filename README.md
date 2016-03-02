@@ -7,9 +7,9 @@ I’m an enthusiastic full-stack javascript developer who loves to learn the lat
 |Languages   |Frameworks / Libraries | Testing   | Tools / Others | Databases      |
 |:---------:|:----------------------:|:---------:|:--------------:|:--------------:|
 |Javascript |Node.js                 | Tape      | Git            | Redis          |
-|Markdown   |Hapi.js                 | QUnit     | Github         | Firebase       |
+|CSS3       |Hapi.js                 | QUnit     | Github         | Firebase       |
 |HTML5      | jQuery                 | Jasmine   | Heroku         |                |
-|CSS3       | React.js               |           | npm            |                |
+|Markdown   | React.js               |           | npm            |                |
 
 ### Recent Projects
 
