@@ -16,7 +16,7 @@ I’m an enthusiastic full-stack javascript developer who loves to learn the lat
 #### Team Munch
 
 Full-stack developer for a mobile-first team meal payment application in a team of 4 developers, which handled several different user flows and many varied requests to our database. Users can be authenticated through facebook and send emails through the application for invites.  
-  
+
 **Stack**: *Front-end*: Bootstrap, jQuery, handlebars, stripe *Backend*: hapi.js, redis, mandrill
 
 Application can be found [here](http://tmmvp.herokuapp.com/).
@@ -46,8 +46,19 @@ Application can be found [here](https://dwylio-test.herokuapp.com).
 * Mentor & teacher of students in our agile, test-driven environment
 
 #### December 2015 - present: Facilitator, Decoded, London
+
 * Teacher of senior professionals in ‘Code in a Day’ workshops to help demystify web technology and development methodologies
 * Course involves building interactive web pages with HTML, CSS and Javscript, with no prior knowledge of any technology or computer language required
+
+#### July 2014 - August 2015: Consultant, Goodall Brazier, London  
+
+* Placed senior manager in large-scale corporate. Secured a long-term partnership with client.
+* Developed sales skills as well as productivity, organisation and time management
+
+#### 2013 Summer: Intern, Emerge Venture Lab, London			  	 
+
+* Researched global educational tech market and produced a detailed database of findings
+* Internship extended by two weeks after efficient and accurate project delivery
 
 ### Education
 
