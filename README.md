@@ -35,7 +35,7 @@ Researched London-based web agency websites & proposed new design for the dwyl w
 
 **Stack**: *Front-end*: Pure-css, jQuery, handlebars *Back-end*: hapi.js
 
-Application can be found [here](https://dwylio-test.herokuapp.com).
+Application can be found [here](http://www.dwyl.io/).
 
 ### Other
 
