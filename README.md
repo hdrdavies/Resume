@@ -19,7 +19,7 @@ Full-stack developer for a mobile-first team meal payment application in a team 
 
 **Stack**: *Front-end*: Bootstrap, jQuery, handlebars, stripe *Backend*: hapi.js, redis, mandrill
 
-Application can be found [here](http://tmmvp.herokuapp.com/).
+Application can be found [here](http://www.dwyl.io/).
 
 #### Boatlaunch
 
