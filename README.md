@@ -19,7 +19,7 @@ Full-stack developer for a mobile-first team meal payment application in a team 
 
 **Stack**: *Front-end*: Bootstrap, jQuery, handlebars, stripe *Backend*: hapi.js, redis, mandrill
 
-Application can be found [here](http://tmmvp.herokuapp.com/).
+The application can be found [here](http://tmmvp.herokuapp.com/).
 
 #### Boatlaunch
 
@@ -27,7 +27,7 @@ Project manager and client liaison for team of 4 developers across different tim
 
 **Stack**: *Front-end*: Bootstrap, jQuery *Backend*: hapi.js, firebase  
 
-Application can be found [here](http://boatlaunch-app.herokuapp.com/).
+The application can be found [here](http://boatlaunch-app.herokuapp.com/).
 
 #### dwyl.io redesign
 
@@ -35,7 +35,7 @@ Researched London-based web agency websites & proposed new design for the dwyl w
 
 **Stack**: *Front-end*: Pure-css, jQuery, handlebars *Back-end*: hapi.js
 
-Application can be found [here](https://dwylio-test.herokuapp.com/).
+The application can be found [here](https://dwylio-test.herokuapp.com/).
 
 ### Other
 
